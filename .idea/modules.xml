@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../PycharmProjects/python教程配套资料/04 Python教程配套资料/.idea/04 Python教程配套资料.iml" filepath="$PROJECT_DIR$/../../PycharmProjects/python教程配套资料/04 Python教程配套资料/.idea/04 Python教程配套资料.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../PycharmProjects/code/.idea/code.iml" filepath="$PROJECT_DIR$/../../PycharmProjects/code/.idea/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../PycharmProjects/giteedemo01/.idea/giteedemo01.iml" filepath="$PROJECT_DIR$/../../PycharmProjects/giteedemo01/.idea/giteedemo01.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/pythonProject1/.idea/pythonProject1.iml" filepath="$USER_HOME$/PycharmProjects/pythonProject1/.idea/pythonProject1.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/接口测试py数据库/.idea/pythonProject2.iml" filepath="$USER_HOME$/PycharmProjects/接口测试py数据库/.idea/pythonProject2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../PycharmProjects/python教程配套资料/.idea/python教程配套资料.iml" filepath="$PROJECT_DIR$/../../PycharmProjects/python教程配套资料/.idea/python教程配套资料.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../PycharmProjects/tpshop/.idea/tpshop.iml" filepath="$PROJECT_DIR$/../../PycharmProjects/tpshop/.idea/tpshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../PycharmProjects/接口测试py数据库/.idea/接口测试py数据库.iml" filepath="$PROJECT_DIR$/../../PycharmProjects/接口测试py数据库/.idea/接口测试py数据库.iml" />
+    </modules>
+  </component>
+</project>
